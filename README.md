@@ -32,10 +32,4 @@ The sentiment analysis model is implemented using a Decision Tree classifier.
 - **Train Model**: Train the sentiment analysis model using the Decision Tree classifier.
 - **Prediction**: Enter text input to predict sentiment.
 
-## Feedback
 
-If you have any feedback or encounter issues with the application, please [create an issue](link_to_issues) on GitHub.
-
-## Contributing
-
-Contributions to this project are welcome! Please read the [contribution guidelines](link_to_contributing.md) before submitting a pull request.
