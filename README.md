@@ -1,3 +1,4 @@
+
 # Sentiment Analysis Application
 
 ## Introduction
@@ -13,6 +14,8 @@ This Streamlit application performs sentiment analysis on text data using a Deci
 ## Usage
 
 To run the application, execute the following command in your terminal:
+
+**python -m streamlit run app.py**
 
 ## Data
 
